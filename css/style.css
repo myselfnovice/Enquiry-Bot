@@ -73,7 +73,7 @@ body {
 
 .float-container {
     border: 3px solid #fff;
-    padding: 40px;
+    padding: 20px;
     display: flex;
     justify-content: center;
 }
