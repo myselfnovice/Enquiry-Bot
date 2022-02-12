@@ -1,5 +1,5 @@
 An Hospital website which is having a FAQ bot created using Azure Bot services and deployed on azure using azure static web apps
-<p><h4>Industry</h4>: Health</p>
+<b>Industry</b>: Health
 
 Project Title: Website for an WeCare Hospital with FAQ bot
 
