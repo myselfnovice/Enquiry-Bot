@@ -16,7 +16,7 @@ We are using Azure Technologies with GitHub to complete this project. We have us
 **Primary Azure Technologies**: Azure Bot Service, QnA Maker, Azure static Web apps
 
 You can check live project here: https://gentle-mud-0ab61d210.1.azurestaticapps.net/enquiry.html<br/>
-Project demo video link on drive: <br/>
+Project demo video link on drive: https://drive.google.com/file/d/1v8y0OVg3zkims6XMzKEYwxJSmh9kcLfr/view<br/>
 link to gitHub repository: https://github.com/myselfnovice/Enquiry-Bot<br/>
 
 <h2>Screenshots of running website and FAQ bot:</h2>
